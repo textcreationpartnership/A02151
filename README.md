@@ -36,9 +36,14 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The pleasant historie of Dorastus and Fawnia VVherein is discovered, that although by the meanes of 
+
 #####Body#####
-The pleasant historie of Dorastus and Fawnia VVherein is discovered, that although by the meanes of 
+
+1. THE
+HISTORIE OF
+DORASTVS AND
+FAWNIA.
+
 **Types of content**
 
   * There are 6 **verse** lines!
